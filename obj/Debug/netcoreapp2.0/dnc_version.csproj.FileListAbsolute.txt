@@ -1,0 +1,10 @@
+C:\temp\code\dnc_version\bin\Debug\netcoreapp2.0\dnc_version.deps.json
+C:\temp\code\dnc_version\bin\Debug\netcoreapp2.0\dnc_version.runtimeconfig.json
+C:\temp\code\dnc_version\bin\Debug\netcoreapp2.0\dnc_version.runtimeconfig.dev.json
+C:\temp\code\dnc_version\bin\Debug\netcoreapp2.0\dnc_version.dll
+C:\temp\code\dnc_version\bin\Debug\netcoreapp2.0\dnc_version.pdb
+C:\temp\code\dnc_version\obj\Debug\netcoreapp2.0\dnc_version.csproj.CoreCompileInputs.cache
+C:\temp\code\dnc_version\obj\Debug\netcoreapp2.0\dnc_version.AssemblyInfoInputs.cache
+C:\temp\code\dnc_version\obj\Debug\netcoreapp2.0\dnc_version.AssemblyInfo.cs
+C:\temp\code\dnc_version\obj\Debug\netcoreapp2.0\dnc_version.dll
+C:\temp\code\dnc_version\obj\Debug\netcoreapp2.0\dnc_version.pdb
