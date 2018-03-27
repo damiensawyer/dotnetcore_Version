@@ -12,6 +12,8 @@ namespace dnc_version
         }
     }
 
+
+// Got from https://stackoverflow.com/a/43482217/494635  "It's been working for me for awhile, but it seems like it could be pretty fragile as .NET Core evolves, so use with caution."
  public static class CoreClrHelpers
     {
         static string coreCLRVersion = "NOT_YET_ASSESSED";
